@@ -1,0 +1,38 @@
+
+.imgindex {
+    width: 20%;
+}
+.ixmainli {
+    display: block;
+    list-style-type: none;
+}
+.noti {
+    width: 45%;
+}
+body {
+    background:  radial-gradient(circle, #fff, #bbb);
+}
+ul li {
+    list-style-type: none;
+    text-decoration: none;
+
+    
+}
+ul li :hover {
+
+
+   
+        color: green;
+        transition: color 2s;
+        text-decoration: none;
+}
+.formcontact {
+    display: block;
+}
+.contbot:hover {
+    background-color: green;
+    transition: background-color 1s;
+}
+.formulcont  {
+    padding: 16px;
+}
